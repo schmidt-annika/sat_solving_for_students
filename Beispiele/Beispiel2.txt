@@ -1,0 +1,78 @@
+# 3-COL Instanz
+# Jedes Feld (A-F) soll mindestens eine Farbe (G, R, L) haben
+AG AR AL
+BG BR BL
+CG CR CL
+DG DR DL
+EG ER EL
+FG FR FL
+
+# Feld A soll höchstens eine Farbe haben
+~AG ~AR
+~AR ~AL
+~AG ~AL
+
+# Feld B soll höchstens eine Farbe haben
+~BG ~BR
+~BR ~BL
+~BG ~BL
+
+# Feld C soll höchstens eine Farbe haben
+~CG ~CR
+~CR ~CL
+~CG ~CL
+
+# Feld D soll höchstens eine Farbe haben
+~DG ~DR
+~DR ~DL
+~DG ~DL
+
+# Feld E soll höchstens eine Farbe haben
+~EG ~ER
+~ER ~EL
+~EG ~EL
+
+# Feld F soll höchstens eine Farbe haben
+~FG ~FR
+~FR ~FL
+~FG ~FL
+
+# Felder A und D dürfen nicht die gleiche Farbe haben
+~AG ~DG
+~AR ~DR
+~AL ~DL
+
+# Felder A und C dürfen nicht die gleiche Farbe haben
+~AG ~CG
+~AR ~CR
+~AL ~CL
+
+# Felder D und C dürfen nicht die gleiche Farbe haben
+~DG ~CG
+~DR ~CR
+~DL ~CL
+
+# Felder D und F dürfen nicht die gleiche Farbe haben
+~DG ~FG
+~DR ~FR
+~DL ~FL
+
+# Felder E und F dürfen nicht die gleiche Farbe haben
+~EG ~FG
+~ER ~FR
+~EL ~FL
+
+# Felder E und C dürfen nicht die gleiche Farbe haben
+~EG ~CG
+~ER ~CR
+~EL ~CL
+
+# Felder B und C dürfen nicht die gleiche Farbe haben
+~BG ~CG
+~BR ~CR
+~BL ~CL
+
+# Felder G und E dürfen nicht die gleiche Farbe haben
+~BG ~EG
+~BR ~ER
+~BL ~EL

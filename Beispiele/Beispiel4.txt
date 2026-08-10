@@ -1,0 +1,999 @@
+F H
+I H C
+~C ~F ~H
+G
+I ~H ~B
+~J
+~G ~A D
+~H ~A B
+D
+~J ~H
+~H E ~A
+J ~H E
+B J ~A
+~I ~C G
+B D C
+~A ~G
+~B
+~J ~B
+~I
+~F ~E C
+H
+~I ~J
+~I ~C
+D ~E G
+G A H
+E G ~D
+~F ~E ~A
+G ~B
+~I
+A ~C
+H ~F ~G
+J F ~I
+~G ~J ~F
+~A ~H
+~C ~G
+~B
+~C F ~I
+~I B
+~A
+C ~J
+~J
+~A J
+~F A ~G
+J A ~I
+I H
+E
+~J ~C G
+~J
+A D
+~B ~G E
+J C ~F
+I ~B
+~A B
+~F ~B
+~C ~I F
+~D H ~B
+~C I
+~C ~H
+~I ~F
+~B
+~J
+~F H ~J
+H
+F D ~J
+E I
+~I J
+~B ~D
+G C F
+~C G F
+~C ~E
+~F ~A
+G ~C D
+~I
+~E ~H ~B
+~D ~I F
+~J ~G D
+~F I C
+E ~G D
+~C
+G ~F
+~F ~E ~G
+~G ~F ~J
+I ~F D
+E C ~J
+H J
+~J
+~A ~I F
+E ~G
+~F ~C
+~B
+G ~H
+~J ~F
+~I ~F A
+G
+~I E
+F G
+~J ~B E
+B H A
+C ~B
+J H
+B G ~D
+~I
+E ~G B
+~C J ~B
+A G C
+~G H
+~B
+~D H
+~H I ~A
+~I ~H
+I E ~D
+I D
+E ~C J
+~G ~F ~J
+G B
+D H F
+~B E
+~C ~D
+~F C I
+~F J
+~C ~I D
+~F
+A ~F J
+~I
+G ~A F
+F G
+~F ~I
+~A
+~G D
+~I G
+G
+H F ~D
+D ~I
+E D ~J
+A ~G E
+~J G
+~B ~F ~I
+D E ~J
+E
+G ~H I
+~B J
+~F
+~B D I
+~G ~I
+~A ~B
+I ~G ~A
+~J F ~A
+G
+~D G C
+~I A J
+~F ~B
+~C
+I ~J
+E
+~I
+D ~A
+~I J F
+~A
+~J E D
+~D G
+~B ~I
+H ~I F
+H ~F ~J
+~C ~J
+~F C ~G
+~B E ~I
+~A E
+B ~J
+~H ~J B
+D
+B ~A C
+~I
+E I
+F D ~G
+~A E
+G E ~J
+~F
+H
+A G
+J ~I ~H
+~I ~G F
+~A H ~I
+E
+~C
+B ~A ~G
+H C
+G ~B ~I
+~I
+~F ~I
+~C I
+~B I
+A ~F
+A H ~B
+G
+D ~B ~J
+H ~F
+~E D ~B
+E
+H ~D ~F
+~B
+H
+~D G
+~J ~G
+~I
+F B ~C
+E ~B
+~C ~G
+~D ~F ~H
+E ~F ~G
+~F H D
+G
+A ~J
+~D E ~I
+G D ~E
+C ~I B
+~H ~I
+E ~J ~G
+B G
+G A D
+A ~F ~I
+G ~F B
+~E H
+~A ~H F
+~C
+H
+~I
+~A ~B C
+~I D
+~I
+~F C
+A ~E H
+I ~C
+A D ~J
+~F ~J ~D
+~E H J
+G ~E
+~A ~G
+~J ~F
+G
+~B G
+~C G
+G
+~A F
+E ~F
+~G ~A
+~A ~J ~I
+~I ~B ~E
+~C ~E ~B
+~B ~I
+E
+G ~B
+~H ~B
+~C ~J
+E ~F B
+~F I ~C
+D
+~F
+~G I E
+G ~H
+~E G
+~D ~F G
+H ~I
+F I ~C
+E
+E B
+H ~F ~G
+~C I
+~A
+H D G
+I F ~J
+I ~J ~D
+~G ~C J
+~A
+G
+A ~B
+D
+~B E ~J
+~E ~I ~A
+~A
+~A B
+G C
+~I E
+~D ~C F
+~D H ~G
+D ~A
+~I C ~H
+J A G
+~A
+~J I ~B
+~J
+F ~C
+E C H
+~A
+~E D ~I
+A H G
+I ~A
+A E ~B
+~B ~A
+~A ~I ~D
+H J
+I ~F E
+~I H ~B
+~J
+~C
+E
+J B D
+~F
+F ~A
+~F ~A I
+F ~A ~C
+~F
+E J C
+~J ~F C
+H
+~C
+~F ~E J
+~A G ~H
+~C ~B
+G ~A
+~D E
+H ~J B
+C D E
+G H D
+~C B J
+~E H
+H J ~C
+E
+~G ~I
+J ~I B
+~A I ~J
+~A B H
+D ~I
+E ~A
+J G ~B
+~A J ~D
+~B ~J G
+~E H ~I
+~B I
+~C
+E B H
+C ~I
+E
+~F ~H J
+~J
+C ~B
+~G E
+~G ~J ~C
+D J
+H G A
+E J
+~B F D
+G
+~J G ~I
+~A H
+B ~G ~I
+~A
+C A ~F
+~F
+~H ~J ~I
+~H ~B
+G ~A
+D
+F G H
+~I
+J ~C
+~B ~H
+D
+~F ~E
+~D ~B
+~A
+~C ~J
+~I H J
+~A
+~D I E
+D
+H ~A ~G
+H
+~A I H
+~F ~J
+B ~F
+~C ~G
+~A J ~E
+E ~D H
+A ~J
+G ~I
+~C ~A
+G ~C
+~J H
+~I A ~F
+~C ~E D
+A E
+~C
+~J
+~F ~A
+~B F
+~J I
+~C ~A
+G
+F E
+~D E ~H
+~F E
+~C G
+~E ~J
+F ~C ~E
+H E
+E ~F
+~J ~F ~G
+E B
+B I ~A
+~A ~G ~D
+G ~J E
+C ~J ~G
+~J C
+E
+~G ~F
+D
+J ~D ~F
+~C ~G ~J
+~B H
+~C ~J
+~F D
+B ~A ~F
+~J
+G ~H C
+~F ~B
+H ~A ~C
+E ~D ~G
+~C A
+~C
+D F
+~B
+~F ~H B
+~J H ~D
+G
+G I ~J
+~B
+A ~I
+~C I
+~J ~D
+~J
+~B ~E C
+~J
+~A
+G
+D
+D A E
+J ~C
+~E ~F B
+J H
+J ~I C
+~I C J
+~C A
+E ~I G
+~B
+A ~F ~B
+B H
+A H ~E
+~J ~A
+~B
+~J F ~E
+~B
+~F
+~G ~D ~I
+I ~F
+~B ~J ~A
+~C F B
+~J ~H
+~H ~B
+~G ~E ~I
+D
+~B
+~F C J
+~C ~J
+~F ~B ~H
+E A
+~A
+~D ~A
+~J ~A I
+~F J ~E
+~B
+~E G
+~F E
+C G
+~C ~H D
+~C ~D
+G ~F
+D H
+E
+~J F
+B F H
+~F
+J H B
+D G
+~F I A
+~J H I
+H ~A ~J
+~I
+~H ~A
+E ~B ~I
+B G
+~F H ~A
+~F ~J ~B
+~J ~I
+G ~B
+~E ~A
+J ~F I
+F D
+~B
+~J B
+~D ~A ~H
+~J ~E F
+~G ~J ~C
+~H ~I
+J E
+I E ~A
+D J
+G J A
+G C F
+~A G ~B
+C D
+~E ~C ~J
+F G B
+I H ~G
+~E J ~I
+~I
+G ~H
+~B D
+~D G
+~C ~F
+H A J
+G
+C ~F
+I F D
+~J ~I ~A
+~J
+~A
+~F ~J
+E ~B
+~B F E
+G
+~F
+~J B ~E
+H ~J ~A
+D ~C E
+D ~C
+A ~C ~J
+D
+~A C I
+H G
+J ~F ~I
+G
+J E
+~B H
+F E
+~F
+D ~J
+~G ~E ~J
+~E H
+E J I
+~B H ~A
+~G H ~B
+~B ~G
+~A E
+~E ~A ~B
+~B
+~A ~E
+E A
+~B I C
+~C ~E
+D
+~J D ~F
+~C ~I
+~A
+~B A
+~F
+~E ~J
+G
+~B ~J A
+H
+~H ~B
+D B F
+H
+~C A
+E
+~B
+E
+~A ~F
+C G
+A D
+D
+E H ~F
+F ~B ~H
+E D
+~B A I
+~B C
+F E
+~B
+~C F ~I
+~J G
+~C
+~F
+~I ~F C
+~E ~B ~A
+~B D
+~A ~E B
+~D H
+~G ~J B
+H
+~F
+~B D
+~B ~E A
+E D ~G
+~A
+~I ~D A
+~J G
+~F
+H ~E ~J
+~A C D
+~F ~E
+H
+G H
+I ~F
+~I J A
+~J
+F ~I
+~H I ~C
+~C ~A B
+~B F I
+~C ~J ~F
+~F
+~C ~I A
+~A
+~A ~C ~B
+E ~C A
+A H
+~F ~H
+~I ~C
+~I ~B
+~F
+~B E ~H
+E ~C B
+I ~F
+~D ~F ~C
+H
+H G
+~D ~C E
+D G J
+G F
+~H ~C
+~E ~C ~D
+G ~J ~E
+~A
+D A ~J
+~B
+~B
+G ~D ~C
+C E D
+E F ~D
+~A ~H ~I
+G I ~F
+E
+~C
+A E ~G
+~J F H
+~C
+H D
+D G
+F I G
+J ~F ~C
+~F H
+D ~A ~H
+E J ~A
+~J ~G D
+~G ~D E
+~C I
+F ~C G
+~F ~E ~H
+~C F ~E
+~B
+H G
+~B ~E J
+C ~F E
+~I B
+G A
+G ~E
+H
+G ~D ~H
+D ~G ~B
+~J A
+~J I
+~I ~H
+~C J
+~C
+F ~C ~J
+~C I ~F
+G D
+E
+~I ~G
+~H J E
+~I
+B ~H ~C
+~D A H
+~B
+~B
+D ~G I
+B ~A
+~B F G
+~C ~H
+D F B
+~B F
+A ~C
+~C ~F
+~F E D
+~A ~C D
+A D
+~B D ~I
+G ~E ~A
+G ~H
+~B
+C E
+D ~A
+C ~B
+~B ~D
+~G ~J C
+~C ~J ~F
+~D ~A ~H
+D I ~H
+H ~G
+B H
+~C
+~J E
+~A C
+~A ~B F
+~F ~J B
+E B H
+~J
+~C ~H
+G F ~D
+~B ~F G
+D F
+C A D
+~B
+E J
+~E ~F
+H
+~C ~D
+G F H
+~A
+~F
+~E D ~A
+~I
+D
+E
+I ~F ~C
+G
+~I J
+~F
+~B I ~E
+I ~A H
+~J I
+~A
+~J B ~D
+~I
+D
+~B
+~J
+~C E
+H
+I G
+F D
+C ~I
+F D
+H ~G
+~F
+D ~B
+~F E
+~G ~I ~B
+G ~D A
+E
+~F ~D ~E
+~B
+~G H ~E
+~F
+C ~I ~H
+~B
+~I
+G ~A
+~J
+B ~F ~C
+A ~B
+F ~I
+~E G ~I
+C ~B
+H ~C
+G ~F ~C
+~J D
+J ~C
+~D ~A H
+~F A
+H
+~C ~B ~F
+~F ~C H
+~F ~B ~C
+~H D ~G
+B ~I G
+G C A
+~A
+H ~C ~G
+F ~I ~C
+~E H
+~A
+H
+E C G
+~C E
+~A
+G ~F ~H
+~F H ~D
+~I ~G
+~I D
+~E ~F G
+~B E H
+~A
+C ~J D
+G C
+~I ~E
+H ~D ~B
+~A B
+B I G
+F ~G ~J
+H
+G H B
+J E
+F ~D ~J
+~A
+~J ~A B
+A C H
+~J I
+E
+~B D
+~B H
+F ~H D
+J H ~D
+D ~B ~J
+H
+B ~A ~J
+~A
+~C
+~I ~C
+~E ~I G
+H C ~A
+~B ~E ~D
+~A
+~F
+F ~B D
+E I
+D ~A
+~B
+C G
+~G ~B
+I H
+~I
+~H A ~B
+~E ~A I
+~B E
+~F
+J ~B A
+I H ~B
+~C ~J
+~C
+G D A
+~I B
+~C I ~J
+~C
+D ~F
+~H D
+B G
+H ~B E
+H
+~I ~H ~C
+~J
+~G ~C ~E
+~B ~I ~C
+J E
+D G ~A
+~C J A
+E ~B G
+E
+D
+H
+~J B A
+B D
+A ~F ~B
+A ~C E
+F ~J H
+~D ~B E
+~F G
+~B ~G
+E
+~F
+B E ~H
+G E
+~C ~I
+E I H
+A D
+~F ~J C
+~I ~B J
+~A G
+~C ~B
+~E ~C A
+~I ~C J
+C ~B
+~F
+~C
+H
+~E G ~B
+~I B
+~A ~B
+F B ~J
+~I ~E G
+~I
+~B ~G ~C
+G
+B ~J
+~H G ~F
+~D ~I ~B
+~B D J
+G ~B
+~C F
+J ~I ~D
+~G ~C
+~J F ~B
+H
+~I E
+~F ~B
+D ~F H
+~C F G
+G
+~J G ~H
+B ~G ~C
+I ~E D
+D
+~G ~B
+~D E F
+~F
+B ~A
+H D
+~A ~J
+A ~F
+E C ~D
+H J
+~J ~F
+~J
+~G C ~B
+E D
+E ~D ~J
+~J ~F
+~J ~F
+D ~I ~E
+J A ~C
+F ~H ~A
+~C ~D
+~H ~F ~I
+~B ~I ~A
+~I ~G A
+~C ~E
+D ~A
+~F H
+~J G
+~I J
+~C
+G ~E
+E
+H A
+~I ~C
+H B
+H
+G ~E I
+E
+~H G ~E
+J G
+I ~J
+F E
+~C
+~F ~D
+I H
+H A E
+G D ~C
+~H B ~A
+~G ~I
+~B
+~I E
+~B
+D ~C ~I
+F H D
+~I F
+~B
+~E ~A
+~A I ~H
+~A

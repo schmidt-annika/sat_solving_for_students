@@ -1,0 +1,11 @@
+# Übersetze diese Zeugenaussage in eine SAT-Formel:
+# Mindestens einer der vier war beteiligt.
+# Alex oder Chris war beteiligt oder Bianca war unschuldig.
+# Entweder Diana war unschuldig oder Bianca war beteiligt.
+# Entweder Diana oder Chris war beteiligt.
+# Mindestens eine der drei (Bianca, Chris, Alex) war unschuldig.
+# Wenn Bianca beteiligt ist, war Alex unschuldig.
+# Entweder Chris oder Alex war beteiligt.
+# Wenn Alex unschuldig ist, war Diana beteiligt.
+# Chris oder Diana war beteiligt.
+# Wenn Bianca unschuldig ist, war Alex der Täter.
